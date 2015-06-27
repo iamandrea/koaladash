@@ -1,2 +1,0 @@
-# koaladash
-Koala Dash
